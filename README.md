@@ -1,0 +1,2 @@
+# Network Simulator
+A desktop application written in Python to simulate the flow of packets through a network.  The application has a Tk GUI to display statistics and plots (Matplotlib) to the user.  This application was created as the semester project for ITC 530 (Mobile Computing) in Spring 2016.
